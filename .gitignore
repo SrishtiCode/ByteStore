@@ -1,0 +1,15 @@
+# Build output
+/target/
+ 
+# Local database files — don't commit test data
+kvs-data/
+*.dat
+ 
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
